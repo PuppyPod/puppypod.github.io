@@ -5,14 +5,37 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/seonhoonsik.jpeg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+안녕하세요. 현재 요기요 2년차 DevOps 엔지니어로 근무중인 선훈식입니다.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+- 경력
+  - 요기요 DevOps Engineer: 2022.04 ~ 현재까지 근무중
+- 학력
+  - 숭실대학교: 2016 ~ 2022
+- 자격증
+  - CKA
+  - SAA
+- Tech
+  - AWS
+    - EKS, ElasticSearch(EFK), Cloudfront, IAM ..
+  - IaC
+    - SaltStack
+    - Terraform
+    - Helm
+  - Opensource
+    - ArgoCD
+    - Airflow
+    - Karpenter
+    - Keda
+    - Prometheus + Thanos(Cortex)
+    - istio
+    - nginx
+  - Programming
+    - Golang(관심있게 스터디 중)
+    - Python(script code를 구현할 수 있을 정도)
+    - Typescript(자동화를 위한 devops 포탈 Frontend 개발중[React, next.js, typescript])
+  - ETC
+    - JIRA
+    - Confluece
+    - Slack
