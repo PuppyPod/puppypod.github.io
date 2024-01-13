@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://puppypod.github.io/" # the base hostname & protocol for your site
 cover: "/assets/DevOps.jpeg"
 logo: "/assets/puppypod.png"
 
@@ -192,16 +192,13 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/puppypod.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/puppypod.png"
 
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
-
-gems:
-  - jekyll-sitemap
